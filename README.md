@@ -403,6 +403,7 @@ priority order, the next increments are:
    the same section-assembly logic in `report_generator.py` could target
    `python-pptx`/`python-docx` for editable board-deck or Word deliverables.
 
+![CI](https://github.com/Chenthurr/ai-venture-analyst/actions/workflows/ci.yml/badge.svg)
 ---
 
 ## License
