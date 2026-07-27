@@ -18,3 +18,4 @@ tiktoken==0.7.0
 reportlab==4.2.5
 python-dotenv==1.0.1
 alembic==1.13.2
+pytest==8.3.3
